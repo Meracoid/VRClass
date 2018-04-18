@@ -109,7 +109,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 492}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 1686
+  controlID: 99
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -133,7 +133,7 @@ MonoBehaviour:
   m_MinSize: {x: 436, y: 492}
   m_MaxSize: {x: 14006, y: 14042}
   vertical: 1
-  controlID: 1594
+  controlID: 113
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -157,7 +157,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 1595
+  controlID: 11
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -231,7 +231,7 @@ MonoBehaviour:
   m_MinSize: {x: 436, y: 271}
   m_MaxSize: {x: 14006, y: 10021}
   vertical: 0
-  controlID: 1662
+  controlID: 114
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -447,7 +447,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.13847348, y: -0.4668088, z: 0.07436171, w: 0.8702787}
     speed: 2
-    m_Value: {x: 0.13847348, y: -0.4668088, z: 0.07436171, w: 0.8702787}
+    m_Value: {x: -0.13847348, y: 0.4668088, z: -0.07436171, w: -0.8702788}
   m_Size:
     m_Target: 0.48239523
     speed: 2
@@ -492,9 +492,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
+    m_SelectedIDs: 38080000
     m_LastClickedID: 0
-    m_ExpandedIDs: 4232feff2c33feffdc34feff3035feff3a35feff9045feffa046feff5448feffac48feffba48feff08f9feff08fafeff16fdfeff6efdfeff7cfdfeffd012ffffbc13ffff6c15ffffc015ffffca15ffffe87effffd67fffff8681ffffda81ffffe481ffff8caaffffa0abffff50adffffa4adffffaeadffff96ecffff9ef3ffff7ef4ffffe4f5ffff36f6ffff9cf6ffff9efbffff0000000026320000323200005e350000cc3c0000d83c0000
+    m_ExpandedIDs: 9efbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -583,19 +583,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Resources/Materials
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Resources/Materials
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\darth\Documents\Unity\VRClass
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 560}
-    m_SelectedIDs: a42a0000
-    m_LastClickedID: 10916
-    m_ExpandedIDs: 00000000ec280000fa280000122900002029000062290000282a00004e2a0000822a0000e42a00000c2b0000de2c000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 528}
+    m_SelectedIDs: 4c2d0000
+    m_LastClickedID: 11596
+    m_ExpandedIDs: 00000000ec280000fa280000102900001e29000060290000262a00004c2a0000802a0000e22a00000a2b0000362d000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -623,7 +623,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000ec280000fa280000122900002029000062290000282a00004e2a0000822a0000e42a00000c2b0000de2c000000ca9a3bffffff7f
+    m_ExpandedIDs: 00000000ec280000fa280000102900001e29000060290000262a00004c2a0000802a0000e22a00000a2b0000362d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 

@@ -288,9 +288,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\BackButton.cs" />
-    <Compile Include="Assets\Disabled.cs" />
-    <Compile Include="Assets\FileHandler.cs" />
     <Compile Include="Assets\GoogleVR\Demos\Scripts\DemoInputManager.cs" />
     <Compile Include="Assets\GoogleVR\Demos\Scripts\DemoSceneManager.cs" />
     <Compile Include="Assets\GoogleVR\Demos\Scripts\HelloVR\HeadsetDemoManager.cs" />
@@ -394,12 +391,14 @@
     <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrUIHelpers.cs" />
     <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrVRHelpers.cs" />
     <Compile Include="Assets\GoogleVR\Scripts\Video\GvrVideoPlayerTexture.cs" />
-    <Compile Include="Assets\MoreInfoButton.cs" />
-    <Compile Include="Assets\PlayerClassHandler.cs" />
-    <Compile Include="Assets\Show_OnClick.cs" />
-    <Compile Include="Assets\Show_OnClickVideo.cs" />
-    <Compile Include="Assets\ToggleScript.cs" />
-    <Compile Include="Assets\VideoHandler.cs" />
+    <Compile Include="Assets\Scripts\BackButton.cs" />
+    <Compile Include="Assets\Scripts\FileHandler.cs" />
+    <Compile Include="Assets\Scripts\MoreInfoButton.cs" />
+    <Compile Include="Assets\Scripts\PlayerClassHandler.cs" />
+    <Compile Include="Assets\Scripts\Show_OnClick.cs" />
+    <Compile Include="Assets\Scripts\Show_OnClickVideo.cs" />
+    <Compile Include="Assets\Scripts\ToggleScript.cs" />
+    <Compile Include="Assets\Scripts\VideoHandler.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\GoogleVR\Demos\Shaders\HelloVR\HelloVRUnlitGrayscaleToColor.shader" />
